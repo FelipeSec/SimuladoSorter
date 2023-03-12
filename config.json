@@ -1,0 +1,10 @@
+{
+    "src_folders": {
+        "primeira_fase": "absolute_path_PrimeiraFase_INICIO",
+        "segunda_fase": "absolute_path_SegundaFase_INICIO"
+    },
+    "dest_folders": {
+        "primeira_fase": "absolute_path_PrimeiraFase_FINAL",
+        "segunda_fase": "absolute_path_SegundaFase_FINAL"
+    }
+}
